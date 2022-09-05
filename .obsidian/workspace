@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Osobní poznámky.md",
+            "file": "Tesena-wiki/02 - Notes/202208_Transition Inspiration Radek Majer.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Osobní poznámky.md",
+                "file": "Tesena-wiki/02 - Notes/202208_Transition Inspiration Radek Majer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Osobní poznámky.md"
+                "file": "Tesena-wiki/02 - Notes/202208_Transition Inspiration Radek Majer.md"
               }
             }
           },
@@ -116,8 +116,10 @@
   },
   "active": "bbb01eb8994bda0f",
   "lastOpenFiles": [
-    "README.md",
+    "Tesena-wiki/01 - Rozcestníky/Tesena Transition.md",
+    "Tesena-wiki/02 - Notes/202208_Transition Inspiration Radek Majer.md",
     "Personal/Osobní poznámky.md",
+    "README.md",
     "Personal/README.md",
     "pokus.md"
   ]
