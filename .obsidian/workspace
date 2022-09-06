@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tesena-wiki/02 - Notes/202208_Transition Inspiration Radek Majer.md",
+            "file": "Tesena-wiki/01 - Rozcestníky/_Rozcestníky.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tesena-wiki/02 - Notes/202208_Transition Inspiration Radek Majer.md",
+                "file": "Tesena-wiki/01 - Rozcestníky/_Rozcestníky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tesena-wiki/02 - Notes/202208_Transition Inspiration Radek Majer.md"
+                "file": "Tesena-wiki/01 - Rozcestníky/_Rozcestníky.md"
               }
             }
           },
@@ -116,8 +116,9 @@
   },
   "active": "bbb01eb8994bda0f",
   "lastOpenFiles": [
-    "Tesena-wiki/01 - Rozcestníky/Tesena Transition.md",
+    "Tesena-wiki/02 - Notes/Beginner's guide to note taking in Osidian.md",
     "Tesena-wiki/02 - Notes/202208_Transition Inspiration Radek Majer.md",
+    "Tesena-wiki/01 - Rozcestníky/Tesena Transition.md",
     "Personal/Osobní poznámky.md",
     "README.md",
     "Personal/README.md",
