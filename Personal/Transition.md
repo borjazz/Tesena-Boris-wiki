@@ -1,1 +1,4 @@
-Všechny soubory, které jsou umístěné v této složce, ale i kdekoliv v kořenovém adresáři mimo složku Tesena-wiki, jsou tvé osobní a nesdílí se do společných poznámek. 
+Round table Fluctuation
+
+We need to grow, so that we can pay all of us more.
+We are not falling, however not
