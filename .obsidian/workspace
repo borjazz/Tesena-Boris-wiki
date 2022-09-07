@@ -20,13 +20,8 @@
         "id": "72cce2649b2a5bdf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Tesena-wiki/02 - Notes/Markdown.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -129,12 +124,12 @@
   },
   "active": "bbb01eb8994bda0f",
   "lastOpenFiles": [
-    "Tesena-wiki/02 - Notes/Markdown.md",
+    "Personal/Osobní poznámky.md",
     "Personal/Transition.md",
     "Tesena-wiki/02 - Notes/202208_Transition Inspiration Radek Majer.md",
     "Tesena-wiki/01 - Rozcestníky/Tesena Transition.md",
+    "Tesena-wiki/02 - Notes/Markdown.md",
     "Untitled.md",
-    "Personal/Osobní poznámky.md",
     "Tesena-wiki/01 - Rozcestníky/_Rozcestníky.md",
     "README.md",
     "Tesena-wiki/02 - Notes/Feature Flags.md",
