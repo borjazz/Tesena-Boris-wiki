@@ -7,6 +7,7 @@
 - we may want to open this question as a separate topic - 'to take one of the baloons' [[202208_Transition Inspiration Radek Majer]]
 	- let us do something with this.. help us to improve the current status going forward
 
+test
 
 
 
