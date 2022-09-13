@@ -12,7 +12,7 @@
 
 
 
-Old Wise Men Group: Summer After Party 
+## Old Wise Men Group: Summer After Party 
 
 -   Retaining: Relationship (personal relationship with others in Tesena) 
     
