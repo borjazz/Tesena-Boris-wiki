@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Transition.md",
+            "file": "Tesena-wiki/02 - Notes/2022-09_MoroSystems visit (Transition).md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Team",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Transition.md",
+                "file": "Tesena-wiki/02 - Notes/2022-09_MoroSystems visit (Transition).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Transition.md"
+                "file": "Tesena-wiki/02 - Notes/2022-09_MoroSystems visit (Transition).md"
               }
             }
           },
@@ -132,14 +133,14 @@
   "active": "bbb01eb8994bda0f",
   "lastOpenFiles": [
     "Tesena-wiki/02 - Notes/Markdown.md",
+    "Tesena-wiki/02 - Notes/2022-09_MoroSystems visit (Transition).md",
+    "Personal/Transition.md",
     "Tesena-wiki/03 - Files/navod_button_template.png",
     "Tesena-wiki/01 - Rozcestníky/Tesena Transition.md",
-    "Personal/Transition.md",
     "![[Pasted image 20220907142140.png.md",
     "Personal/Osobní poznámky.md",
     "Tesena-wiki/02 - Notes/202208_Transition Inspiration Radek Majer.md",
     "Untitled.md",
-    "Tesena-wiki/01 - Rozcestníky/_Rozcestníky.md",
-    "README.md"
+    "Tesena-wiki/01 - Rozcestníky/_Rozcestníky.md"
   ]
 }
