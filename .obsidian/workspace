@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration Iresoft.md",
+            "file": "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration MoroSystems.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration Iresoft.md",
+                "file": "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration MoroSystems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration Iresoft.md"
+                "file": "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration MoroSystems.md"
               }
             }
           },
@@ -131,6 +131,8 @@
   },
   "active": "bbb01eb8994bda0f",
   "lastOpenFiles": [
+    "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration Iresoft.md",
+    "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration MoroSystems.md",
     "Tesena-wiki/02 - Notes/202208_Transition Inspiration TTC Teleport (Radek Majer).md",
     "Tesena-wiki/02 - Notes/Markdown.md",
     "Tesena-wiki/02 - Notes/2022-09_Iresoft visit.md",
@@ -138,8 +140,6 @@
     "Personal/Transition.md",
     "Personal/Osobní poznámky.md",
     "Tesena-wiki/01 - Rozcestníky/_Rozcestníky.md",
-    "Tesena-wiki/02 - Notes/2022-09_MoroSystems visit (Transition).md",
-    "Tesena-wiki/02 - Notes/2022-04_Tesena Friday.md",
-    "Tesena-wiki/03 - Files/navod_button_template.png"
+    "Tesena-wiki/02 - Notes/2022-09_MoroSystems visit (Transition).md"
   ]
 }
