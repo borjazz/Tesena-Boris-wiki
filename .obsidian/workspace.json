@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration MoroSystems.md",
+                "file": "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration Iresoft.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -53,7 +53,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Osobní poznámky.md",
+                "file": "Sdileni z navstev sv. firem.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a88957d79307a1f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration Iresoft.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Osobní poznámky.md",
+                "file": "Sdileni z navstev sv. firem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Osobní poznámky.md"
+                "file": "Sdileni z navstev sv. firem.md"
               }
             }
           },
@@ -185,11 +198,11 @@
   },
   "active": "b7f85bfbe2a72b2f",
   "lastOpenFiles": [
-    "Personal/Transition.md",
-    "Personal/Osobní poznámky.md",
-    "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration MoroSystems.md",
-    "Sdileni z navstev sv. firem.md",
     "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration Iresoft.md",
+    "Sdileni z navstev sv. firem.md",
+    "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration MoroSystems.md",
+    "Personal/Osobní poznámky.md",
+    "Personal/Transition.md",
     "Tesena-wiki/02 - Notes/202208_Transition Inspiration TTC Teleport (Radek Majer).md",
     "Tesena-wiki/02 - Notes/Markdown.md",
     "Tesena-wiki/02 - Notes/2022-09_Iresoft visit.md",

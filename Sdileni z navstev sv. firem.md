@@ -12,4 +12,12 @@
 	3. team - co to znamena (Moro)
 	4. personal leader (Moro)
 	5. personal dev. plan (Moro)
-	6. 
+	6. Spolurizeni spolecnosti/team vyroby (Moro)
+	7. Run the Business (Moro)
+	8. Strategie/rozvoj (Moro)
+	9. role HR (Moro)
+	10. oddelili business cast a firemni kulturu **(Iresoft)**
+	11. vytvorili 'kruhy' (Iresoft)
+		1. vysledky a BUSINESS (50% pozornosti)
+			-   podkru STRATEGIE 4x rocne 2 dny (offsite)
+			-   podkruh PROVOZ (Jirka uz tam neni) -
