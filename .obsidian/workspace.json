@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sdileni z navstev sv. firem.md",
+                "file": "Personal/Osobní poznámky.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sdileni z navstev sv. firem.md",
+                "file": "Personal/Osobní poznámky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sdileni z navstev sv. firem.md"
+                "file": "Personal/Osobní poznámky.md"
               }
             }
           },
@@ -185,15 +185,15 @@
   },
   "active": "b7f85bfbe2a72b2f",
   "lastOpenFiles": [
+    "Personal/Transition.md",
+    "Personal/Osobní poznámky.md",
     "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration MoroSystems.md",
     "Sdileni z navstev sv. firem.md",
-    "Personal/Osobní poznámky.md",
     "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration Iresoft.md",
     "Tesena-wiki/02 - Notes/202208_Transition Inspiration TTC Teleport (Radek Majer).md",
     "Tesena-wiki/02 - Notes/Markdown.md",
     "Tesena-wiki/02 - Notes/2022-09_Iresoft visit.md",
     "Tesena-wiki/01 - Rozcestníky/Wiki.md",
-    "Personal/Transition.md",
     "Tesena-wiki/01 - Rozcestníky/_Rozcestníky.md"
   ]
 }
