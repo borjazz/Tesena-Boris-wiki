@@ -38,9 +38,12 @@
             "id": "46864e8167e405e2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration MoroSystems.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -115,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 428.5
   },
   "right": {
     "id": "6a336a217a46df26",
@@ -169,9 +172,9 @@
   },
   "active": "46864e8167e405e2",
   "lastOpenFiles": [
-    "Tesena-wiki/02 - Notes/202208_Transition Inspiration TTC Teleport (Radek Majer).md",
-    "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration MoroSystems.md",
     "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration Iresoft.md",
+    "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration MoroSystems.md",
+    "Tesena-wiki/02 - Notes/202208_Transition Inspiration TTC Teleport (Radek Majer).md",
     "Tesena-wiki/02 - Notes/Markdown.md",
     "Tesena-wiki/02 - Notes/2022-09_Iresoft visit.md",
     "Tesena-wiki/01 - Rozcestníky/Wiki.md",
