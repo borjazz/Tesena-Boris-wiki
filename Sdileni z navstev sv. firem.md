@@ -19,7 +19,8 @@
 	10. oddelili business cast a firemni kulturu **(Iresoft)**
 	11. vytvorili 'kruhy' (**Iresoft**)
 		1. vysledky a BUSINESS (50% pozornosti)
-			-   podkru STRATEGIE 4x rocne 2 dny (offsite)
-			-   podkruh PROVOZ (Jirka uz tam neni)
-	- ## 
-	- 
+			1.   podkru STRATEGIE 4x rocne 2 dny (offsite)
+			2.   podkruh PROVOZ (Jirka uz tam neni
+			3. 
+			4. 
+	12. 
