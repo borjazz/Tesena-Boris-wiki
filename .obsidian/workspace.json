@@ -48,6 +48,19 @@
             }
           },
           {
+            "id": "f5156d98e021100b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Sdileni z navstev sv. firem 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a88957d79307a1f6",
             "type": "leaf",
             "state": {
@@ -61,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "75e4969f06c2383e",
@@ -147,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Sdileni z navstev sv. firem.md",
+                "file": "Personal/Sdileni z navstev sv. firem 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Sdileni z navstev sv. firem.md"
+                "file": "Personal/Sdileni z navstev sv. firem 1.md"
               }
             }
           },
@@ -183,10 +196,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b7f85bfbe2a72b2f",
+  "active": "f5156d98e021100b",
   "lastOpenFiles": [
-    "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration Iresoft.md",
     "Personal/Sdileni z navstev sv. firem.md",
+    "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration Iresoft.md",
     "Personal/Osobní poznámky.md",
     "Tesena-wiki/02 - Notes/Markdown.md",
     "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration MoroSystems.md",
