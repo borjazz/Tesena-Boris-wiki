@@ -3,7 +3,7 @@
 	1. zacneme diskusi mezi temi, kteri byli osobne (Boris, Michal, Jiri, Phil, tom, Katy)
 	2. zapojime ostatnich
 	3. rozdelime na 2 casti (Morosystem, Iresoft)
-2. popis spolecnosti a proc jsme si je vybrali
+2. popis spolecnosti a proc jsme si je vybrali  (pls **Michal, Phil**)
 	1. MoroSystems
 	2. Iresoft
 3. **body** o kterych se budeme bavit:
