@@ -6,7 +6,7 @@
       {
         "id": "7c0bc8df914f44c7",
         "type": "tabs",
-        "dimension": 85.52821997105644,
+        "dimension": 68.64535768645358,
         "children": [
           {
             "id": "bbb01eb8994bda0f",
@@ -35,26 +35,13 @@
             }
           },
           {
-            "id": "46864e8167e405e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Osobní poznámky.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b7f85bfbe2a72b2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sdileni z navstev sv. firem.md",
-                "mode": "source",
+                "file": "Personal/Sdileni z navstev sv. firem.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -74,12 +61,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "75e4969f06c2383e",
         "type": "tabs",
-        "dimension": 14.47178002894356,
+        "dimension": 31.35464231354642,
         "children": [
           {
             "id": "72cce2649b2a5bdf",
@@ -160,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sdileni z navstev sv. firem.md",
+                "file": "Personal/Sdileni z navstev sv. firem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sdileni z navstev sv. firem.md"
+                "file": "Personal/Sdileni z navstev sv. firem.md"
               }
             }
           },
@@ -198,11 +185,11 @@
   },
   "active": "b7f85bfbe2a72b2f",
   "lastOpenFiles": [
-    "Tesena-wiki/02 - Notes/Markdown.md",
-    "Sdileni z navstev sv. firem.md",
     "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration Iresoft.md",
-    "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration MoroSystems.md",
+    "Personal/Sdileni z navstev sv. firem.md",
     "Personal/Osobní poznámky.md",
+    "Tesena-wiki/02 - Notes/Markdown.md",
+    "Tesena-wiki/02 - Notes/2022-09_Transition Inspiration MoroSystems.md",
     "Personal/Transition.md",
     "Tesena-wiki/02 - Notes/202208_Transition Inspiration TTC Teleport (Radek Majer).md",
     "Tesena-wiki/02 - Notes/2022-09_Iresoft visit.md",
